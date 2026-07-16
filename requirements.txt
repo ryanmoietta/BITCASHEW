@@ -1,0 +1,10 @@
+rich
+pyfiglet
+pandas
+numpy
+ta
+requests
+dash
+plotly
+flask
+dash-bootstrap-components
