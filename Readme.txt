@@ -7,8 +7,5 @@ It is designed to collect market data, analyze trends, and automate trading stra
 
 ## Installation
 
-Clone the repository:
-
-```bash
-https://github.com/ryanmoietta/BITCASHEW.git
+git clone https://github.com/ryanmoietta/BITCASHEW.git
 cd cashew-tracer
